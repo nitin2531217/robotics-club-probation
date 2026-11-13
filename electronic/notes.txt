@@ -1,0 +1,14 @@
+Learning Git and GitHub is essential for team collaboration in robotics.
+
+Git helps track changes in files, while GitHub allows developers to collaborate and manage projects.
+
+Key Learnings:
+1. Understanding Git and GitHub.
+2. Creating and managing repositories.
+3. Adding and tracking files.
+4. Making commits.
+5. Working with branches.
+6. Forking repositories.
+7. Creating pull requests.
+
+This repository tracks my learning progress in the Electronics domain.
